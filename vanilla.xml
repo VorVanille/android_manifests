@@ -21,7 +21,7 @@
   <project path="build" name="android_build" remote="vanilla">
 	  <copyfile src="core/root.mk" dest="Makefile" />
   </project> -->
-  <project path="manifests" name="android_manifest" remote="vanilla" />
+  <project path="manifests" name="android_manifests" remote="vanilla" />
 
   <!-- Device Repos 
   <project path="device/huawei/angler" name="android_device_huawei_angler" remote="vanilla" />
