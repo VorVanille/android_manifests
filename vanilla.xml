@@ -9,10 +9,6 @@
           revision="8.0.0"
           fetch="https://github.com/VorVanille/" />
 
-  <remote name="vanillaold"
-          revision="7.1.2"
-          fetch="https://github.com/VanillaNexusSource/" />
-
   <remote name="bitbucket"
           revision="master"
           fetch="https://bitbucket.org/" />
@@ -54,7 +50,7 @@
   <!-- Prebuilt Repos -->
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-linux-android-7.x" name="nathanchance/gcc-prebuilts" remote="github" revision="personal-linaro-7.x" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.x" name="matthewdalex/arm-eabi-6.x" remote="bitbucket" />
-  <project path="prebuilts/ninja/linux-x86" name="android_prebuilts_ninja_linux-x86" remote="vanillaold" />
+  <project path="prebuilts/ninja/linux-x86" name="android_prebuilts_ninja_linux-x86" remote="vanilla" />
   <!-- <project path="prebuilts/misc" name="android_prebuilts_misc" remote="vanilla" /> -->	
 	
   <!-- System Repos
@@ -65,11 +61,11 @@
   <project path="system/vold" name="android_system_vold" remote="vanilla" /> -->
   
   <!-- Vendor Repos -->
-  <project path="vendor/vanilla" name="android_vendor_vanilla" remote="vanillaold" />	
+  <project path="vendor/vanilla" name="android_vendor_vanilla" remote="vanilla" />	
   <!-- <project path="vendor/huawei" name="android_vendor_huawei" remote="vanilla" />	
   <project path="vendor/moto" name="android_vendor_moto" remote="vanilla" /> -->
     
   <!-- Extras -->
-  <project path="scripts" name="vanilla_scripts" remote="vanillaold" />
+  <project path="scripts" name="vanilla_scripts" remote="vanilla" />
 
 </manifest>
