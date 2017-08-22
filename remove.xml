@@ -96,9 +96,10 @@
   <remove-project name="platform/frameworks/support" />
 
   <!-- Apps 
-  <remove-project name="platform/packages/apps/MusicFX" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/PhoneCommon" />
+  -->
+  <remove-project name="platform/packages/apps/MusicFX" />
   <remove-project name="platform/packages/apps/Settings" />
 
   <!-- Prebuilts

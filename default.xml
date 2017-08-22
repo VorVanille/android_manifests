@@ -601,6 +601,6 @@
 
   <!-- Vanilla additions -->
   <include name="remove.xml" />
-  <!--<include name="vanilla.xml" /> -->
+  <include name="vanilla.xml" />
 
 </manifest>
