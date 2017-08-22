@@ -88,6 +88,9 @@
 	
   <!-- Vanilla's Repos -->
 
+  <!-- Main -->
+  <remove-project name="platform/build" />
+
   <!-- Devices -->
   <!-- <remove-project name="device/huawei/angler" /> -->
   <!-- <remove-project name="platform/build" /> -->
