@@ -51,11 +51,15 @@
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Music" />
+  <remove-project name="platform/packages/apps/Phone" />
   <remove-project name="platform/packages/apps/Protips" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/RetailDemo" />
   <remove-project name="platform/packages/apps/SafetyRegulatoryInfo" />
+  <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/StorageManager" />
+  <remove-project name="platform/packages/apps/Test/connectivity" />
+  <remove-project name="platform/packages/apps/UnifiedEmail" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   
@@ -97,6 +101,7 @@
   <remove-project name="device/linaro/hikey" />
   <remove-project name="device/linaro/hikey-kernel" />
   <remove-project name="device/sample" />
+  <remove-project name="kernel/tests" />
 	
   <!-- Hardware -->
   <remove-project name="platform/hardware/intel/audio_media" />
