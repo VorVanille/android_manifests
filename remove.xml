@@ -7,9 +7,10 @@
   <remove-project name="platform/build" />
 
   <!-- Apps -->
+  <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/apps/MusicFX" />
   <!-- <remove-project name="platform/packages/apps/PackageInstaller" /> -->
   <!-- <remove-project name="platform/packages/apps/PhoneCommon" /> -->
-  <remove-project name="platform/packages/apps/MusicFX" />
   <remove-project name="platform/packages/apps/Settings" />
 
   <!-- Devices -->
@@ -47,7 +48,6 @@
   <remove-project name="platform/packages/apps/Gallery" />
   <remove-project name="platform/packages/apps/Gallery2" />
   <remove-project name="platform/packages/apps/Launcher2" />
-  <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Music" />
