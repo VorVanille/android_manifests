@@ -57,7 +57,6 @@
   <remove-project name="platform/packages/apps/RetailDemo" />
   <remove-project name="platform/packages/apps/SafetyRegulatoryInfo" />
   <remove-project name="platform/packages/apps/SpareParts" />
-  <remove-project name="platform/packages/apps/StorageManager" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
   <remove-project name="platform/packages/apps/UnifiedEmail" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
