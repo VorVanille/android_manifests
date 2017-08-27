@@ -33,9 +33,9 @@
   <project path="device/huawei/angler" name="android_device_huawei_angler" remote="vanilla" />
   <!-- <project path="device/moto/shamu" name="android_device_moto_shamu" remote="vanilla" /> -->
 
-  <!-- Framework Repos
+  <!-- Framework Repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="vanilla" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="vanilla" />
+  <!-- <project path="frameworks/base" name="android_frameworks_base" remote="vanilla" />
   <project path="frameworks/native" name="android_frameworks_native" remote="vanilla" />
   <project path="frameworks/support" name="android_frameworks_support" remote="vanilla" /> -->
 	
