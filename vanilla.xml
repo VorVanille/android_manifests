@@ -35,8 +35,8 @@
 
   <!-- Framework Repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="vanilla" />
-  <!-- <project path="frameworks/base" name="android_frameworks_base" remote="vanilla" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="vanilla" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="vanilla" />
+  <!-- <project path="frameworks/native" name="android_frameworks_native" remote="vanilla" />
   <project path="frameworks/support" name="android_frameworks_support" remote="vanilla" /> -->
 	
   <!-- Kernel Repos
@@ -57,9 +57,9 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-6.x" name="matthewdalex/arm-eabi-6.x" remote="bitbucket" />
   <!-- <project path="prebuilts/misc" name="android_prebuilts_misc" remote="vanilla" /> -->	
 	
-  <!-- System Repos
+  <!-- System Repos -->
   <project path="system/core" name="android_system_core" remote="vanilla" />
-  <project path="system/extras" name="android_system_extras" remote="vanilla" />
+  <!-- <project path="system/extras" name="android_system_extras" remote="vanilla" />
   <project path="system/media" name="android_system_media" remote="vanilla" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="vanilla" />
   <project path="system/vold" name="android_system_vold" remote="vanilla" /> -->
