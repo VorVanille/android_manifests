@@ -70,6 +70,6 @@
   <!-- <project path="vendor/moto" name="android_vendor_moto" remote="vanilla" /> -->
     
   <!-- Extras -->
-  <!-- <project path="scripts" name="vanilla_scripts" remote="vanilla" /> -->
+  <project path="Scripts" name="vanilla_scripts" remote="vanilla" />
   <project path="Changelog" name="vanilla_changelog" remote="vanilla" />
 </manifest>
